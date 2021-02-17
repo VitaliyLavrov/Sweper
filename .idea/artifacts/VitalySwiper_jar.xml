@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VitalySwiper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VitalySwiper_jar</output-path>
+    <root id="archive" name="VitalySwiper.jar">
+      <element id="module-output" name="VitalySwiper" />
+    </root>
+  </artifact>
+</component>
